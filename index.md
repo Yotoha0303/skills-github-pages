@@ -1,6 +1,7 @@
 ---
-main
+
 ---
+
 # 欢迎主页
 
 hello.This is my github page!
